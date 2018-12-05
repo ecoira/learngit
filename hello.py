@@ -4,3 +4,5 @@ def a():
     pass
 print(a.__doc__)
 
+print"hello"
+
