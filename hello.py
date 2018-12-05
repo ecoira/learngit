@@ -4,3 +4,4 @@ b=20
 a=b
 print a
 
+print "happy birthday!"
