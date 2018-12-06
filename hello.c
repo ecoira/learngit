@@ -43,4 +43,5 @@ void main()
 	GetHzkCode("王",buffer);
 	hzk=buffer;
 	printHzkChar(hzk,Hzkc1,Hzkc2);
+        printf("helloworld");
 }
